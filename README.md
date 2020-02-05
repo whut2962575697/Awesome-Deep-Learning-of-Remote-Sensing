@@ -1,8 +1,10 @@
-# Awesome Deep Learning of Remote Sensing
+# Awesome Deep Learning of Remote Sensing [图片](https://github.com/sindresorhus/awesome)
 - [x] Public Remote Sensing Dataset
 - [x] Baseline Code (Semantic Segmentation/Scene classification/Object Detection)
-- [x] OpenSoure Codes
-- [x] Compitions
+- [x] Other OpenSoure Codes
+- [x] Compitions About Remote Sensing
+
+
 
 其中fcn32.py中为fcn-32s代码，fcn8.py中为fcn-8s代码，包括模型的搭建和训练过程。
 
