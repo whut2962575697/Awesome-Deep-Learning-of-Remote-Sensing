@@ -17,6 +17,8 @@ In this project, we will open source some baseline codes for the remote sensing 
 180,748 corresponding image triplets containing Sentinel-1 (VV&VH), Sentinel-2 (all bands, cloud-free), and MODIS-derived land cover maps (IGBP, LCCS, 17 classes, 500m res.). All data upsampled to 10m res., georeferenced, covering all continents and meterological seasons, Paper: Schmitt et al. 2018
 - [IEEE Data Fusion Contest 2018 ](http://www.grss-ieee.org/community/technical-committees/data-fusion/2018-ieee-grss-data-fusion-contest/ "IEEE Data Fusion Contest 2018 ")   
 20 land cover categories by fusing three data sources: Multispectral LiDAR, Hyperspectral (1m), RGB imagery (0.05m res.)
+- [Segmentation Data of Sparse Representation and Intelligent Analysis of 2019 Remote Sensing Image competition]( "") (website has been closed)   
+16 land cover classes,4-band RGB-IR aerial imagery (4m res.) 8 patches of 7200x6800 for train and 2 patches of 7200x6800 for val and 10 patches of 7200x6800 for test
 ### 2.Scene Classification
 ### 3.Object Detection
 ### 4.Image Captioning
