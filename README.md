@@ -11,6 +11,12 @@ In this project, we will open source some baseline codes for the remote sensing 
 6 urban land cover classes, raster mask labels, 4-band RGB-IR aerial imagery (0.05m res.) & DSM, 38 image patches
 - [DSTL Satellite Imagery Feature Detection Challenge ](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection "DSTL Satellite Imagery Feature Detection Challenge ")   
 10 land cover categories from crops to vehicle small, 57 1x1km images, 3/16-band Worldview 3 imagery (0.3m-7.5m res.), Kaggle kernels
+- [Slovenia Land Cover Classification](http://eo-learn.sentinel-hub.com/ "Slovenia Land Cover Classification")   
+10 land cover classes, temporal stack of hyperspectral Sentinel-2 imagery (R,G,B,NIR,SWIR1,SWIR2; 10 m res.) for year 2017 with cloud masks, Official Slovenian land use land cover layer as ground truth.
+- [SEN12MS](https://mediatum.ub.tum.de/1474000 "SEN12MS")    
+180,748 corresponding image triplets containing Sentinel-1 (VV&VH), Sentinel-2 (all bands, cloud-free), and MODIS-derived land cover maps (IGBP, LCCS, 17 classes, 500m res.). All data upsampled to 10m res., georeferenced, covering all continents and meterological seasons, Paper: Schmitt et al. 2018
+- [IEEE Data Fusion Contest 2018 ](http://www.grss-ieee.org/community/technical-committees/data-fusion/2018-ieee-grss-data-fusion-contest/ "IEEE Data Fusion Contest 2018 ")   
+20 land cover categories by fusing three data sources: Multispectral LiDAR, Hyperspectral (1m), RGB imagery (0.05m res.)
 ### 2.Scene Classification
 ### 3.Object Detection
 ### 4.Image Captioning
