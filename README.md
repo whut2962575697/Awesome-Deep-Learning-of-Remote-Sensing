@@ -19,6 +19,8 @@ In this project, we will open source some baseline codes for the remote sensing 
 20 land cover categories by fusing three data sources: Multispectral LiDAR, Hyperspectral (1m), RGB imagery (0.05m res.)
 - [Segmentation Data of Sparse Representation and Intelligent Analysis of 2019 Remote Sensing Image competition]( "") (website has been closed)   
 16 land cover classes,4-band RGB-IR aerial imagery (4m res.) 8 patches of 7200x6800 for train and 2 patches of 7200x6800 for val and 10 patches of 7200x6800 for test
+- [2019 年县域农业大脑AI挑战赛](https://tianchi.aliyun.com/competition/entrance/231717/information "2019 年县域农业大脑AI挑战赛")   
+5 argriculture categories
 ### 2.Scene Classification
 ### 3.Object Detection
 ### 4.Image Captioning
