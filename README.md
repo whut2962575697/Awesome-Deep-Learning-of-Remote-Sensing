@@ -32,6 +32,15 @@ In this project, we will open source some baseline codes for the remote sensing 
 - [AI-Chen/Deeplab-v3-Plus-pytorch-](https://github.com/AI-Chen/Deeplab-v3-Plus-pytorch- "AI-Chen/Deeplab-v3-Plus-pytorch-") [pytorch]
 - [mohuazheliu/ResUnet-a](https://github.com/mohuazheliu/ResUnet-a "mohuazheliu/ResUnet-a") [tensorflow]
 ### 2.Scene Classification
+- [weihancug/SENet_ResNeXt_Remote_Sensing_Scene_Classification](https://github.com/weihancug/SENet_ResNeXt_Remote_Sensing_Scene_Classification "weihancug/SENet_ResNeXt_Remote_Sensing_Scene_Classification") [pytorch]
+- [BiQiWHU/DenseNet40-for-HRRSISC](https://github.com/BiQiWHU/DenseNet40-for-HRRSISC "BiQiWHU/DenseNet40-for-HRRSISC") [tensorflow]
+- [weihancug/SSGF-for-HRRS-scene-classification](https://github.com/weihancug/SSGF-for-HRRS-scene-classification "weihancug/SSGF-for-HRRS-scene-classification") [caffe]
+- [Arafat123-iit/A-System-for-Effecient-Remote-Sensing-Image-Scene-Classification-](https://github.com/Arafat123-iit/A-System-for-Effecient-Remote-Sensing-Image-Scene-Classification- "Arafat123-iit/A-System-for-Effecient-Remote-Sensing-Image-Scene-Classification-") [keras]
+- [Aaromxj/SF-CNN](https://github.com/Aaromxj/SF-CNN "Aaromxj/SF-CNN") [Caffe]
+- [Aaron-Lst/ARCNet](https://github.com/Aaron-Lst/ARCNet "Aaron-Lst/ARCNet") [pytorch]
+- [Wanke15/Feature_extraction-SVM-classification-Remote-sensing](https://github.com/Wanke15/Feature_extraction-SVM-classification-Remote-sensing "Wanke15/Feature_extraction-SVM-classification-Remote-sensing") [caffe]
+-[williamzhao95/Pay-More-Attention](https://github.com/williamzhao95/Pay-More-Attention "williamzhao95/Pay-More-Attention") [Mxnet]
+-[henanjun/SccovNet](https://github.com/henanjun/SccovNet "henanjun/SccovNet") [matlab]
 ### 3.Object Detection
 ### 4.Image Captioning
 ## Compitions About Remote Sensing
