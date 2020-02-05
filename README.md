@@ -1,5 +1,8 @@
-# fcn
-FCN by Keras/Tensorflow 遥感影像分类
+# Awesome Deep Learning of Remote Sensing
+- [x] Public Remote Sensing Dataset
+- [x] Baseline Code (Semantic Segmentation/Scene classification/Object Detection)
+- [x] OpenSoure Codes
+- [x] Compitions
 
 其中fcn32.py中为fcn-32s代码，fcn8.py中为fcn-8s代码，包括模型的搭建和训练过程。
 
