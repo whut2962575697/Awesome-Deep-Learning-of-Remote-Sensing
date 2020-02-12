@@ -21,7 +21,7 @@ In this project, we will open source some baseline codes for the remote sensing 
 16 land cover classes,4-band RGB-IR aerial imagery (4m res.) 8 patches of 7200x6800 for train and 2 patches of 7200x6800 for val and 10 patches of 7200x6800 for test
 - [2019 年县域农业大脑AI挑战赛](https://tianchi.aliyun.com/competition/entrance/231717/information "2019 年县域农业大脑AI挑战赛")   
 5 argriculture categories
-- [CCF 卫星影像的AI分类与识别比赛 BDCI 2017](https://www.datafountain.cn/competitions/270/datasets "BDCI 2017")
+- [CCF 卫星影像的AI分类与识别比赛 BDCI 2017](https://www.datafountain.cn/competitions/270/datasets "BDCI 2017")   
 5 land cover classes(greenland, building, waterbody, road and other), 5 rgb images(R,G,B; 1 m res.) for train and val, 3 rgb images for test
 ### 2.Scene Classification
 ### 3.Object Detection
