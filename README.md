@@ -25,6 +25,9 @@ In this project, we will open source some baseline codes for the remote sensing 
 5 land cover classes(greenland, building, waterbody, road and other), 5 rgb images(R,G,B; 1 m res.) for train and val, 3 rgb images for test
 - [2020 NAIC “华为・昇腾杯”AI+遥感影像 ](https://naic.pcl.ac.cn/frame/2 "2020NAIC")   
 初赛：10万高分光学影像和标注文件（一级分类（8类）），20万测试图片数据；复赛：10万高分光学影像和标注文件（二级分类（17类）），30万测试图片数据；
+- [2020 CCF BDCI 遥感影像地块分割 ](https://www.datafountain.cn/competitions/475/datasets "2020BDCI")   
+训练集包含140,000张分辨率为2m/pixel，尺寸为256256的JPG图片，一共7个类别，对应gt 0-6
+
 ### 2.Scene Classification
 ### 3.Object Detection
 ### 4.Image Captioning
