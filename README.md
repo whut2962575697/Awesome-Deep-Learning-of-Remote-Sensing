@@ -10,8 +10,7 @@ In this project, we will open source some baseline codes for the remote sensing 
 - [ISPRS Potsdam 2D Semantic Labeling Contest ](http://www2.isprs.org/commissions/comm3/wg4/2d-sem-label-potsdam.html "ISPRS Potsdam 2D Semantic Labeling Contest")   
 6 urban land cover classes, raster mask labels, 4-band RGB-IR aerial imagery (0.05m res.) & DSM, 38 image patches   
   + categories      
-  
-| index | label | color |
+  | index | label | color |
 | :-----| ----: | :----: |
 | 1 | Impervious surfaces | 255, 255, 255 |
 | 2 | Building | 0, 0, 255 |
