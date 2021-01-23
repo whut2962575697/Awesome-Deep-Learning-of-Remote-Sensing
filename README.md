@@ -37,7 +37,7 @@ In this project, we will open source some baseline codes for the remote sensing 
 5 land cover classes(greenland, building, waterbody, road and other), 5 rgb images(R,G,B; 1 m res.) for train and val, 3 rgb images for test
 #### [2020 NAIC “华为・昇腾杯”AI+遥感影像 ](https://naic.pcl.ac.cn/frame/2 "2020NAIC")   
 初赛：10万高分光学影像和标注文件（一级分类（8类）），20万测试图片数据；复赛：10万高分光学影像和标注文件（二级分类（17类）），30万测试图片数据；
-#### 初赛 categories  
+##### 初赛 categories  
  | index | 一级标签 | gary(百位数字) |
  | :-----| ----: | :----: |
  | 1 | 水体 | 1 |
@@ -48,7 +48,7 @@ In this project, we will open source some baseline codes for the remote sensing 
  | 6 | 林地 | 6 | 
  | 7 | 裸土 | 7 | 
  | 8 | 其他 | 8 |    
- #### 复赛 categories  
+ ##### 复赛 categories  
  | index | 二级标签 | gary(十位及个位上的数字) |
  | :-----| ----: | :----: |
  | 1 | 水体 | 01 |
@@ -68,7 +68,7 @@ In this project, we will open source some baseline codes for the remote sensing 
  | 15 | 自然裸土 | 15 |
  | 16 | 人为裸土 | 16 |
  | 17 | 其他 | 17 |
- #### Download   
+ ##### Download   
 [baiduyun password: pdos](https://pan.baidu.com/s/1Q4YjUAhmTwDCQA7wlKrDxQ "NAIC RS 2020")    
 #### [2020 CCF BDCI 遥感影像地块分割 ](https://www.datafountain.cn/competitions/475/datasets "2020BDCI")   
 训练集包含140,000张分辨率为2m/pixel，尺寸为256256的JPG图片，一共7个类别，对应gt 0-6
