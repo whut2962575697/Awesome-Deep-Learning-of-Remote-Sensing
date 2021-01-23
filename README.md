@@ -31,6 +31,27 @@ In this project, we will open source some baseline codes for the remote sensing 
 20 land cover categories by fusing three data sources: Multispectral LiDAR, Hyperspectral (1m), RGB imagery (0.05m res.)
 #### [Segmentation Data of Sparse Representation and Intelligent Analysis of 2019 Remote Sensing Image competition]( "") (website has been closed)   
 16 land cover classes,4-band RGB-IR aerial imagery (4m res.) 8 patches of 7200x6800 for train and 2 patches of 7200x6800 for val and 10 patches of 7200x6800 for test
+##### categories  
+ | index | label | color |
+ | :-----| ----: | :----: |
+ | 1 | 水田 | 0,200,0 |
+ | 2 | 水浇田 | 150,250,0 |
+ | 3 | 旱耕地 | 150,200,150 |
+ | 4 | 园地 | 200,0,200 |
+ | 5 | 乔木林地 | 150,0,250 |
+ | 6 | 灌木林地 | 150,150,250 | 
+ | 7 | 天然草地 | 250,200,0 | 
+ | 8 | 人工草地 | 200,200,0 | 
+ | 9 | 工业用地 | 200,0,0 |
+ | 10 | 城市住宅 | 250,0,150 |
+ | 11 | 村镇住宅 | 200,150,150 |
+ | 12 | 交通运输 | 250,150,150 |
+ | 13 | 河流 | 0,0,200 |
+ | 14 | 湖泊 | 0,150,200 |
+ | 15 | 坑塘 | 0,200,250 |
+ | 16 | 其他 | 0,0,0 |
+ ##### Download 
+ [baiduyun password: o2fp](https://pan.baidu.com/s/1Bun1xlFFr49HXJXSjKab3Q "Segmentation Data of Sparse Representation and Intelligent Analysis of 2019 Remote Sensing Image competition")
 #### [2019 年县域农业大脑AI挑战赛](https://tianchi.aliyun.com/competition/entrance/231717/information "2019 年县域农业大脑AI挑战赛")   
 5 argriculture categories
 #### [CCF 卫星影像的AI分类与识别比赛 BDCI 2017](https://www.datafountain.cn/competitions/270/datasets "BDCI 2017")   
