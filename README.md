@@ -35,6 +35,16 @@ In this project, we will open source some baseline codes for the remote sensing 
 5 argriculture categories
 #### [CCF 卫星影像的AI分类与识别比赛 BDCI 2017](https://www.datafountain.cn/competitions/270/datasets "BDCI 2017")   
 5 land cover classes(greenland, building, waterbody, road and other), 5 rgb images(R,G,B; 1 m res.) for train and val, 3 rgb images for test
+##### categories
+ | index | label | gary |
+ | :-----| ----: | :----: |
+ | 1 | 植被 | 1 |
+ | 2 | 建筑 | 2 |
+ | 3 | 水体 | 3 |
+ | 4 | 道路 | 4 |
+ | 5 | 其他 | 0 | 
+ ##### Download 
+ [baiduyun password: aaod](https://pan.baidu.com/s/1ld8p2bghiKu_2A6Mg4_-JQ "BDCI 2017")
 #### [2020 NAIC “华为・昇腾杯”AI+遥感影像 ](https://naic.pcl.ac.cn/frame/2 "2020NAIC")   
 - 初赛：10万高分光学影像和标注文件（一级分类（8类）），20万测试图片数据；
 - 复赛：10万高分光学影像和标注文件（二级分类（17类）），30万测试图片数据；
