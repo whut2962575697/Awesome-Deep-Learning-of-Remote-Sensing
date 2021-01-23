@@ -73,6 +73,19 @@ In this project, we will open source some baseline codes for the remote sensing 
 [baiduyun password: pdos](https://pan.baidu.com/s/1Q4YjUAhmTwDCQA7wlKrDxQ "NAIC RS 2020")    
 #### [2020 CCF BDCI 遥感影像地块分割 ](https://www.datafountain.cn/competitions/475/datasets "2020BDCI")   
 训练集包含140,000张分辨率为2m/pixel，尺寸为256256的JPG图片，一共7个类别，对应gt 0-6
+##### categories
+ | index | label | gary |
+ | :-----| ----: | :----: |
+ | 1 | 建筑 | 0 |
+ | 2 | 耕地 | 1 |
+ | 3 | 林地 | 2 |
+ | 4 | 水体 | 3 |
+ | 5 | 道路 | 4 |
+ | 6 | 草地 | 5 | 
+ | 7 | 其他 | 6 | 
+ | 8 | 未标注区域 | 255 | 
+ ##### Download 
+ [baiduyun password: 7tcn](https://pan.baidu.com/s/1bG9SdvXzmp3oNjkTPkwwfw "BDCI 2020")  
 
 ### 2.Scene Classification
 ### 3.Object Detection
