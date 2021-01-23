@@ -11,13 +11,13 @@ In this project, we will open source some baseline codes for the remote sensing 
 6 urban land cover classes, raster mask labels, 4-band RGB-IR aerial imagery (0.05m res.) & DSM, 38 image patches   
   + categories      
   | index | label | color |
-| :-----| ----: | :----: |
-| 1 | Impervious surfaces | 255, 255, 255 |
-| 2 | Building | 0, 0, 255 |
-| 3 | Low vegetation | 0, 255, 255 |
-| 4 | Tree | 0, 255, 0 |
-| 5 | Car | 255, 255, 0 |
-| 6 | Clutter/background | 255, 0, 0 | 
+  | :-----| ----: | :----: |
+  | 1 | Impervious surfaces | 255, 255, 255 |
+  | 2 | Building | 0, 0, 255 |
+  | 3 | Low vegetation | 0, 255, 255 |
+  | 4 | Tree | 0, 255, 0 |
+  | 5 | Car | 255, 255, 0 |
+  | 6 | Clutter/background | 255, 0, 0 | 
   + Download   
 [baiduyun password: 9enz](https://pan.baidu.com/s/1l_s8XsT_wn5TgpNqwMnVMw "ISPRS Potsdam 2D Semantic Labeling Contest")   
 - [DSTL Satellite Imagery Feature Detection Challenge ](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection "DSTL Satellite Imagery Feature Detection Challenge ")   
