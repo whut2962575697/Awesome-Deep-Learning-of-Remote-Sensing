@@ -9,7 +9,16 @@ In this project, we will open source some baseline codes for the remote sensing 
 ### 1.Semantic Segmentation
 - [ISPRS Potsdam 2D Semantic Labeling Contest ](http://www2.isprs.org/commissions/comm3/wg4/2d-sem-label-potsdam.html "ISPRS Potsdam 2D Semantic Labeling Contest")   
 6 urban land cover classes, raster mask labels, 4-band RGB-IR aerial imagery (0.05m res.) & DSM, 38 image patches   
-[baiduyun password:9enz](https://pan.baidu.com/s/1l_s8XsT_wn5TgpNqwMnVMw "ISPRS Potsdam 2D Semantic Labeling Contest")   
+#### categories 
+| index | label | color |
+| :-----| ----: | :----: |
+| 1 | Impervious surfaces | 255, 255, 255 |
+| 2 | Building | 0, 0, 255 |
+| 3 | Low vegetation | 0, 255, 255 |
+| 4 | Tree | 0, 255, 0 |
+| 5 | Car | 255, 255, 0 |
+| 6 | Clutter/background | 255, 0, 0 |
+[Download(baiduyun:9enz)](https://pan.baidu.com/s/1l_s8XsT_wn5TgpNqwMnVMw "ISPRS Potsdam 2D Semantic Labeling Contest")   
 - [DSTL Satellite Imagery Feature Detection Challenge ](https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection "DSTL Satellite Imagery Feature Detection Challenge ")   
 10 land cover categories from crops to vehicle small, 57 1x1km images, 3/16-band Worldview 3 imagery (0.3m-7.5m res.), Kaggle kernels
 - [Slovenia Land Cover Classification](http://eo-learn.sentinel-hub.com/ "Slovenia Land Cover Classification")   
