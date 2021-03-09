@@ -119,7 +119,8 @@ In this project, we will open source some baseline codes for the remote sensing 
  [baiduyun password: 7tcn](https://pan.baidu.com/s/1bG9SdvXzmp3oNjkTPkwwfw "BDCI 2020")  
  
  #### [2021全国数字生态创新大赛智能算法赛：生态资产智能分析 ](https://tianchi.aliyun.com/competition/entrance/531860/introduction "2021TCRS")   
-初赛训练集包含16017张分辨率为0.8m-2m/pixel，尺寸为256256的JPG图片，一共7个类别，对应gt 1-10
+初赛训练集包含16017张分辨率为0.8m-2m/pixel，尺寸为256256的TIF图片，一共10个类别，对应gt 1-10   
+复赛训练集包含15904张分辨率为0.8m-2m/pixel，尺寸为256256的TIF图片，一共10个类别，对应gt 1-10
 ##### categories
  | index | label | gary |
  | :-----| ----: | :----: |
