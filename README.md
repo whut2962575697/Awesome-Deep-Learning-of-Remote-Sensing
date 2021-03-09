@@ -117,6 +117,25 @@ In this project, we will open source some baseline codes for the remote sensing 
  | 8 | 未标注区域 | 255 | 
  ##### Download 
  [baiduyun password: 7tcn](https://pan.baidu.com/s/1bG9SdvXzmp3oNjkTPkwwfw "BDCI 2020")  
+ 
+ #### [2021全国数字生态创新大赛智能算法赛：生态资产智能分析 ](https://tianchi.aliyun.com/competition/entrance/531860/introduction "2021TCRS")   
+初赛训练集包含16017张分辨率为0.8m-2m/pixel，尺寸为256256的JPG图片，一共7个类别，对应gt 1-10
+##### categories
+ | index | label | gary |
+ | :-----| ----: | :----: |
+ | 1 | 耕地 | 1 |
+ | 2 | 林地 | 2 |
+ | 3 | 草地 | 3 |
+ | 4 | 道路 | 4 |
+ | 5 | 城镇建设用地 | 5 |
+ | 6 | 农村建设用地 | 6 | 
+ | 7 | 工业用地 | 7 | 
+ | 8 | 构筑物 | 8 | 
+ | 9 | 水域 | 9 | 
+ | 10 | 裸地 | 10 | 
+ ##### Download 
+ [baiduyun password: td5k](https://pan.baidu.com/s/1QQJPTKB8zqEflYmHaTXtJg "2021TCRS") 
+ 
 
 ### 2.Scene Classification
 ### 3.Object Detection
