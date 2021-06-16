@@ -142,6 +142,8 @@ In this project, we will open source some baseline codes for the remote sensing 
 ### 3.Object Detection
 ### 4.Image Captioning
 ## Baseline Codes
+### Scene Classification
+[image_classification](https://github.com/whut2962575697/image_classification "hexin") [pytorch]
 ### Semantic Segmentation
 [image_seg](https://github.com/whut2962575697/image_seg "hexin") [pytorch]   
 It is based on the codes of our Tianchi competition in 2021 (https://tianchi.aliyun.com/competition/entrance/531860/introduction).   
