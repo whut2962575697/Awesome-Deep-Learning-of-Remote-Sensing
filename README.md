@@ -142,6 +142,10 @@ In this project, we will open source some baseline codes for the remote sensing 
 ### 3.Object Detection
 ### 4.Image Captioning
 ## Baseline Codes
+### Semantic Segmentation
+[image_seg](https://github.com/whut2962575697/image_seg "hexin") [pytorch]   
+It is based on the codes of our Tianchi competition in 2021 (https://tianchi.aliyun.com/competition/entrance/531860/introduction).   
+In the competition, our team won the third place (please see [Tianchi_README.md](https://github.com/whut2962575697/image_seg/Tianchi_README.md "hexin")).
 ## OpenSoure Codes
 ### 1.Semantic Segmentation
 - [cuilunan/Unet-of-remote-sensing-image](https://github.com/cuilunan/Unet-of-remote-sensing-image "cuilunan") [tensorflow]
